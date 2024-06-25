@@ -1,5 +1,4 @@
-const BASE_URL = import.meta.env.VITE_APP_BASE_URL;
-
+import { BASE_URL } from "./../utils/constants"
 
 // AUTH ENDPOINTS
 export const endpoints = {
